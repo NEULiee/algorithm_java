@@ -1,5 +1,11 @@
 package com.neuli.boj;
 
+/**
+ *  boj 16438 원숭이 스포츠
+ *
+ *  분할정복
+ */
+
 import java.util.Arrays;
 import java.util.Scanner;
 
