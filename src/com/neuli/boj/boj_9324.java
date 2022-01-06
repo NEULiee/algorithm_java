@@ -1,5 +1,10 @@
 package com.neuli.boj;
 
+/**
+ *  9324 진짜 메시지
+ *  문자열
+ */
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
